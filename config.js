@@ -58,8 +58,8 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = 'Àimò Shuǐ Botz'
-global.author = 'by KrizynOfc'
+global.packname = 'Fauzi Botz'
+global.author = 'by Fauzi'
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
